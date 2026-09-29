@@ -76,7 +76,7 @@ Components-
 - Arduino programming
 
 
-## 📚 What I Learned
+##  What I Learned
 
 Through these projects, I practiced:
 
